@@ -1,2 +1,1 @@
-# study-trading-automations-python
-Studying trading automations
+- Projeto de estudos de APIs, automações e etc relacionado com mercado financeiro.

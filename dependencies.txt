@@ -1,0 +1,6 @@
+pip install quandl
+pip install yfinance
+pip install investpy
+pip install python-binance
+pip install zipfile
+pip isntall pandas_datareader
